@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="center">hi 👋, I'm Kyriakos</h1>
+<h3 align="center">a passionate software and ai engineer</h3>
+
+- 📫 How to reach me **kparaschopoulos@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://dev.to/parkir" target="blank"><img align="center" src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="https://dev.to/parkir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kyriakos-paraschopoulos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kyriakos-paraschopoulos/" height="30" width="40" /></a>
+</p>
+
 
 <!--
 **parkir/parkir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
